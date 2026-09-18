@@ -11,7 +11,7 @@ requests over a single TCP connection (keep-alive), consuming exactly
 ## Run
 
 ```bash
-cd assignment
+cd src/main/java
 javac Server.java
 java assignment.Server
 ```
